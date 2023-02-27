@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_intro",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TahenyBELGUITH/nodeJs_intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TahenyBELGUITH/nodeJs_intro/issues"
+  },
+  "homepage": "https://github.com/TahenyBELGUITH/nodeJs_intro#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
